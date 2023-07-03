@@ -7,7 +7,7 @@ Comando para inicializar o repositorio git localmente
 $ git init
 ```
 
-Comando para sinalizar a pasta principal 
+Comando para alterar o nome da branch atual
 ```bash
 $ git config --global init.defaultbranch main
 ```
