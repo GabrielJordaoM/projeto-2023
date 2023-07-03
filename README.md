@@ -8,7 +8,7 @@ $ git init
 <<<<<<< HEAD
 ```
 
-Comando para alterar o nome da branch atual
+Comando para sinalizar a pasta principal 
 ```bash
 $ git config --global init.defaultbranch main
 ```
