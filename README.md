@@ -46,7 +46,13 @@ Comando para reverter mudancas 'comitadas'
 ```bash
 $ git Revert <id da commit>
 ```
+
 Comando para mostrar diferenças entre as branch disponiveis
 ```bash
 $ git diff [<options>] [<commit>] [--] [<path>…​]git add <file-name>
+```
+
+Comando para alterar o nome da branch atual
+```bash
+$ git Branch
 ```
