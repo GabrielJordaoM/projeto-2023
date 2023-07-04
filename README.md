@@ -26,7 +26,13 @@ Comando para restaurar o arquivo a uma forma anterior
 ```bash
 $ git restore <file-name>
 ```
+
 Comando para mostrar o status dos arquivos na branch
 ```bash
 $ git status
+```
+
+Comando para fixar as modificaçoes no arquivo(com descriçao)
+```bash
+$ git commit -m "descrição da modificaçao"
 ```
