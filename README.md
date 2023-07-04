@@ -41,3 +41,8 @@ Comando para mostar todos os commits do arquivo
 ```bash
 $ git log
 ```
+
+Comando para reverter mudancas 'comitadas'
+```bash
+$ git Revert <id da commit>
+```
