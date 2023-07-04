@@ -36,3 +36,8 @@ Comando para fixar as modificaçoes no arquivo(com descriçao)
 ```bash
 $ git commit -m "descrição da modificaçao"
 ```
+
+Comando para mostar todos os commits do arquivo
+```bash
+$ git log
+```
