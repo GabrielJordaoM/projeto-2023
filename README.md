@@ -5,7 +5,6 @@
 Comando para inicializar o repositorio git localmente
 ```bash
 $ git init
-<<<<<<< HEAD
 ```
 
 Comando para alterar o nome da branch atual
@@ -16,6 +15,4 @@ $ git config --global init.defaultbranch main
 Comando para alterar o nome da branch atual
 ```bash
 $ git branch -m <new-name>
-=======
->>>>>>> parent of 932afba (Adiciona a descrição do git config main)
 ```
