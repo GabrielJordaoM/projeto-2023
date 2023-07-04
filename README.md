@@ -56,4 +56,8 @@ Comando para alterar o nome da branch atual
 ```bash
 $ git Branch
 ```
+<<<<<<< HEAD
 teste so para ver o mundo pegar fogo
+=======
+teste numero uno 
+>>>>>>> feat1
